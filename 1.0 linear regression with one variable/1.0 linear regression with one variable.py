@@ -2,7 +2,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 # data process
-data = np.loadtxt('./data_sets/ex1data1.txt', delimiter=',')
+data = np.loadtxt('../data_sets/ex1data1.txt', delimiter=',')
 x_data = data[:, 0]
 y_data = data[:, 1]
 x_plot = x_data  # for plotting the hypothesis function
