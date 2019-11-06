@@ -11,10 +11,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1.0 linear regression with one variable.py">
+        <entry file="file://$PROJECT_DIR$/1.0 linear regression with one variable/1.0 linear regression with one variable.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+            <state relative-caret-position="101">
+              <caret line="55" column="26" lean-forward="true" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -37,12 +37,16 @@
       <find>c.NotebookApp.notebook_dir</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$USER_HOME$/.jupyter/jupyter_notebook_config.py" />
         <option value="$PROJECT_DIR$/1.1 linear regression with one variable.py" />
         <option value="$PROJECT_DIR$/1.0 linear regression with one variable.py" />
+        <option value="$PROJECT_DIR$/1.0 linear regression with one variable/1.0 linear regression with one variable.py" />
       </list>
     </option>
   </component>
@@ -51,6 +55,7 @@
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -58,6 +63,7 @@
     <panes />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -75,7 +81,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1.0 linear regression with one variable">
+  <component name="RunManager" selected="Python.1.0 linear regression with one variable (1)">
+    <configuration name="1.0 linear regression with one variable (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Mathine_learning_andrew_ng" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.0 linear regression with one variable" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.0 linear regression with one variable/1.0 linear regression with one variable.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="1.0 linear regression with one variable" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Mathine_learning_andrew_ng" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,6 +172,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1.0 linear regression with one variable (1)" />
         <item itemvalue="Python.1.0 linear regression with one variable" />
         <item itemvalue="Python.1.1 linear regression with one variable" />
         <item itemvalue="Python.run_cnn" />
@@ -169,22 +198,22 @@
       <workItem from="1572339895715" duration="653000" />
       <workItem from="1572349882100" duration="752000" />
       <workItem from="1572356214617" duration="86000" />
+      <workItem from="1572870077437" duration="285000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70314000" />
+    <option name="totallyTimeSpent" value="70599000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.211126" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29844412" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29745042" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -231,6 +260,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Mathine_learning_andrew_ng$run_cnn.coverage" NAME="run_cnn Coverage Results" MODIFIED="1570716906606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Bupt_assignment/debug" />
     <SUITE FILE_PATH="coverage/Mathine_learning_andrew_ng$1_1_linear_regression_with_one_variable.coverage" NAME="1.1 linear regression with one variable Coverage Results" MODIFIED="1572338896579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Assignments_Andrew_Ng$1_0_linear_regression_with_one_variable__1_.coverage" NAME="1.0 linear regression with one variable (1) Coverage Results" MODIFIED="1572870234257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.0 linear regression with one variable" />
     <SUITE FILE_PATH="coverage/Mathine_learning_andrew_ng$1_0_linear_regression_with_one_variable.coverage" NAME="1.0 linear regression with one variable Coverage Results" MODIFIED="1572316349471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Machine_Learning_Assignments_Andrew_Ng$1_0_linear_regression_with_one_variable.coverage" NAME="1.0 linear regression with one variable Coverage Results" MODIFIED="1572356253369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -270,13 +300,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/anaconda/install_location/Lib/site-packages/mpl_toolkits/mplot3d/axes3d.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-742">
-          <caret line="2252" column="8" selection-start-line="2252" selection-start-column="8" selection-end-line="2252" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/anaconda/install_location/Lib/site-packages/seaborn/timeseries.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
@@ -301,8 +324,25 @@
     <entry file="file://$PROJECT_DIR$/1.1 linear regression with one variable.py" />
     <entry file="file://$PROJECT_DIR$/1.0 linear regression with one variable.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
+        <state relative-caret-position="276">
           <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/anaconda/install_location/Lib/site-packages/mpl_toolkits/mplot3d/axes3d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2329">
+          <caret line="1506" column="8" selection-start-line="1506" selection-start-column="8" selection-end-line="1506" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.0 linear regression with one variable/1.0 linear regression with one variable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="55" column="26" lean-forward="true" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
